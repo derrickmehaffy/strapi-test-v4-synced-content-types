@@ -12,8 +12,8 @@ Content-types:
 
 - [Company 1 Blog Posts](src/api/company-1-blog-post/content-types/company-1-blog-post/schema.js)
 - [Company 2 Blog Posts](src/api/company-1-blog-post/controllers/company-1-blog-post.js)
-- [Central Blog Post content-type attributes](src/synced-content-types/blog-post/attributes.json)
-- [Central Blog Post content-type options](src/synced-content-types/blog-post/options.json)
+- [Synced Blog Post content-type attributes](src/synced-content-types/blog-post/attributes.json)
+- [Synced Blog Post content-type options](src/synced-content-types/blog-post/options.json)
 
 ## Instructions to add new attributes
 
